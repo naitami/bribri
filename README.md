@@ -1,0 +1,2 @@
+# bribri
+teclado chibcha 
